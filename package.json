@@ -1,0 +1,18 @@
+{
+  "name": "birdbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.2.3",
+    "hapi-auth-jwt": "^4.0.0",
+    "jsonwebtoken": "^8.2.0",
+    "knex": "^0.14.4",
+    "mysql": "^2.15.0"
+  }
+}
